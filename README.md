@@ -6,6 +6,8 @@ Windows向け模写練習アプリ「Pose Cards」の配布・更新ファイル
 
 [最新版のダウンロード・変更内容](https://github.com/sora00554-del/pose-cards/releases/latest)
 
+最新版は **1.3.8** です。プレビューへの描き込み、レイヤー名の連番化、描いた線の一括色変更を追加しました。[変更内容](docs/releases/v1.3.8.md)
+
 Releasesに添付された `PoseCards-Windows-x64-バージョン番号.zip` を選び、展開して中のSetupを実行してください。Windows 10 / 11・64bitとMicrosoft Edge WebView2 Runtimeが必要です。
 
 配布版に教材PDF・参考画像・既製のカード集は同梱していません。初回起動後に、自分で用意したPDF・JPG・PNGを追加できます。
