@@ -6,7 +6,7 @@ Windows向け模写練習アプリ「Pose Cards」の配布・更新ファイル
 
 [最新版のダウンロード・変更内容](https://github.com/sora00554-del/pose-cards/releases/latest)
 
-最新版は **1.3.9** です。格子の濃さ調整と、前回選んだ値を再起動後も保持する機能を追加しました。[変更内容](docs/releases/v1.3.9.md)
+最新版は **1.3.10** です。先頭からの順番表示と、日付・所要時間付きの横長まとめPNGを追加しました。[変更内容](docs/releases/v1.3.10.md)
 
 Releasesに添付された `PoseCards-Windows-x64-バージョン番号.zip` を選び、展開して中のSetupを実行してください。Windows 10 / 11・64bitとMicrosoft Edge WebView2 Runtimeが必要です。
 
